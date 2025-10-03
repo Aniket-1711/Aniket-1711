@@ -1,3 +1,6 @@
+<header>
+      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</header>
 <!-- Name at the top -->
 <div align="center">
   <h1><b>Aniket Kauraji Gawande✨</b></h1>
@@ -42,9 +45,10 @@
   <h2 align="center">💻 My Tech Stack 💻</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github" />
+      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github,kotlin,nodejs,npm"/>   
     </a>
   </p>
+  
 </div>
 <br>
 
