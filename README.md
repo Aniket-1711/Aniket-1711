@@ -28,9 +28,11 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-1711&layout=compact&theme=tokyonight&cache_seconds=0" height="150" />
+  <br>
   
   <!-- Streak Stats -->
-  
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aniket-1711&theme=tokyonight&hide_border=true" alt="Aniket's GitHub Streak" />
+
 </p>
 
 ---
