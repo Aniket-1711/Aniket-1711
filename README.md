@@ -51,7 +51,7 @@
   <h2 align="center">💻 My Tech Stack 💻</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github,kotlin,nodejs,npm,vscode,postgres,vercel"/>   
+      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github,kotlin,nodejs,npm,vscode,postgres,vercel,sqlite,ai"/>   
     </a>
   </p>
   
