@@ -24,10 +24,12 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket-1711&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0" height="150" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-1711&layout=compact&theme=tokyonight&cache_seconds=0" height="150" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniket-1711&theme=react"/>
+  <br>
+  <!-- Top Languages and stats -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aniket-1711&theme=react"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniket-1711&theme=react"/>
+      
   <br>
   
   <!-- Streak Stats -->
@@ -49,7 +51,7 @@
   <h2 align="center">💻 My Tech Stack 💻</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github,kotlin,nodejs,npm"/>   
+      <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,bootstrap,git,github,kotlin,nodejs,npm,vscode,postgres,vercel"/>   
     </a>
   </p>
   
