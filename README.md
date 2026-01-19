@@ -63,13 +63,20 @@
   <table align="center">
     <tr>
       <td width="50%" valign="top">
-        <h3>Jarvis AI Assistant</h3>
-        <p>A personal AI assistant inspired by Jarvis, built to perform various automated tasks using voice commands.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </p>
-        <a href="https://github.com/Aniket-1711/Jarvis-AI-Assistant" target="_blank">View Project</a>
-      </td>
+  <h3>Smart Store AI Billing System</h3>
+  <p>
+    An AI-powered billing system with product detection, rush status, 
+    e-receipts, order history, inventory management, and AI analytics.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_Analytics-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Inventory_Management-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  </p>
+  <a href="https://github.com/Aniket-1711/smart_store_ai_billing" target="_blank">View Project</a>
+</td>
+
       <td width="50%" valign="top">
         <h3>Smart Attendance System</h3>
         <p>An automated attendance system that uses real-time face recognition to mark and record attendance efficiently.</p>
