@@ -8,7 +8,7 @@
 
 <!-- Typing effect for tagline/bio -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=F73A65&center=true&vCenter=true&lines=Full+Stack+Learner+%7C+DSA+Explorer;Machine+Learning+%7C+AI+Enthusiast;Always+Curious+%7C+Never+Bored" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=F73A65&center=true&vCenter=true&lines=Full+Stack+Learner+%7C+DSA+Explorer;Machine+Learning+%7C+AI+Enthusiast;Always+Curious+%7C" />
 </p>
 <div align="center" style="margin-top:100px">
   <!-- <h1 align="center">
